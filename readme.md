@@ -17,6 +17,5 @@ I'm Antoni Kepinski, a 15 years old Node.js developer focused on creating simple
 
 - [Website](https://akep.us)
 - [Twitter](https://twitter.com/dokwadratu)
- ---
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
